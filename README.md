@@ -19,4 +19,6 @@ Claude Science is used on the HPC cluster to direct computations, while a more p
 
 ## Full reproducibility report
 
+> **Paper analysed:** Carbonneau et al. (2026), *Evolutionary relationships between landlocked and anadromous Atlantic Salmon populations in the North Shore region of the Gulf of St. Lawrence*.
+
 The complete illustrated account of the analysis is available in [Reproducibility Report v3](comprehensive_report_v3.md). The detailed original step notes are in [Appendix A](appendix_step_notes.md).
