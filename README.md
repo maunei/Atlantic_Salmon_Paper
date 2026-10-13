@@ -2,7 +2,7 @@
 
 # Reproducibility Assessment
 
-This repository documents the application of a human-in-the-loop, AI-assisted system designed to facilitate the reproduction of computational analyses presented in a genomics paper.
+This repository documents the application of a human-in-the-loop, AI-assisted system designed to facilitate the reproduction of computational analyses presented in a bioinformatics/genomics paper.
 
 The reproducibility assessment begins on a local workstation with limited computational resources. The system first ingests the paper using the workflow described in the following repository and summarized in the infographic above:
 
@@ -15,7 +15,7 @@ Beyond evaluating reproducibility, this effort generates reusable intermediate f
 The assessment focuses on rerunning a substantial portion of the paper’s analyses on a high-performance computing (HPC) cluster. The workflow starts from publicly deposited raw data whenever possible and explicitly documents cases in which processed objects or other author-derived information were required.
 
 
-Claude-science is used on the HPC cluster to direct computations and a more polished report to present the paper and analysis is obtained by AI/human interaction.
+Claude Science is used on the HPC cluster to direct computations, while a more polished report presenting the paper and its analysis is produced through AI–human interaction.
 
 
 
